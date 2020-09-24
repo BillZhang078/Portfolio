@@ -1,15 +1,17 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Netflix Clone'
+cover: './demo.jpg'
+github: 'https://github.com/Brian078Zhang/NetflixClone'
+external: 'https://blissful-clarke-fef11a.netlify.app/'
 tech:
   - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Fuse.js
+  - Styled Components
+  - Firebase
+  - Compound Components
+
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This Netflix Clone has multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up. The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, I use Firebase auth to store the user in the Firebase auth database.

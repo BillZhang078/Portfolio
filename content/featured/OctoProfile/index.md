@@ -1,12 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'SearchGithubProfile'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/Brian078Zhang/Search-Github-Users'
+external: 'https://vigorous-engelbart-de9a4a.netlify.app'
 tech:
-  - Next.js
-  - Chart.js
+  - React
+  - Fusion Charts
+  - Auth0
   - GitHub API
 showInProjects: true
 ---
