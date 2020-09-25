@@ -10,7 +10,7 @@ skills:
   - WordPress
 ---
 
-Hello! I'm Peng Zhang, a software engineer || web developer based in Adelaide, SA.
+Hello! I'm Brian(Peng) Zhang, a software engineer || web developer based in Adelaide, SA.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
